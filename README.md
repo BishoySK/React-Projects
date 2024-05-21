@@ -6,4 +6,6 @@ Clone the repository to your local machine.
 Open the project folders individually to explore the code for each project.
 Feel free to use, modify, or enhance these projects as part of your own learning journey. I encourage you to experiment, tweak the code, and build upon these projects to solidify your understanding of React.
 
+### [Introduction](#introduction)
+mkdnfskdfs [here](Installation)
 Happy hacking! 🚀
