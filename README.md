@@ -8,9 +8,6 @@ Feel free to use, modify, or enhance these projects as part of your own learning
 
 ### [Installation](#Installation)
 ------------------------------------------------------------------------------------------------------------------------------
-<div style="background-color: red; padding: 10px;">
-  <h1>Project Title</h1>
-</div>
 * git clone https://github.com/BishoySK/React-Projects.git.
 * Select the project you will work on.
 * npm install
