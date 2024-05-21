@@ -13,5 +13,7 @@ Feel free to use, modify, or enhance these projects as part of your own learning
 * npm install
 * npm run dev
 
-  
+ <!-- markdownlint-disable MD041 -->
+<span style="background-color: grey; padding: 10px;">This line has a grey background.</span>
+<!-- markdownlint-enable MD041 --> 
 Happy hacking! 🚀
